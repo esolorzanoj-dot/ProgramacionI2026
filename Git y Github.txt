@@ -1,0 +1,24 @@
+Responder las siguientes preguntas:
+
+1.¿Qué es GIT?
+Es un software que sirve para llevar un control de las distintas versiones de un programa 
+
+2.¿Cuáles son los comandos más importantes y para qué sirven?
+Git init: Comando para empezar a utilizar Git 
+Git add (file): Pasar los archivos del working directory al starting área 
+Git status: Sirve para ver en qué estado se encuentran los archivos 
+Git commit: Sirve para pasar desde el starting área al repository 
+Git push: Sirve para suirlo a un repositorio remoto
+Git pull: Sirve para traer los cambios que hayan realizado otros desarrolladores
+Git clone: Realiza una copia desde el servidor central hacia el dispositivo local 
+3.¿Cuál es la diferencia entre Git y Github? 
+Git es un software local mientras que github en un servicio en la nube 
+
+4. Enumere los comandos para subir cambios a un repositorio.
+Git push, git pull, 
+5. ¿Qué es una branch ?
+Es una herramienta que permite a los desarrolladores trabajar en nuevas funcionalidades
+
+ 
+
+
